@@ -19,6 +19,6 @@ I also saw how the state changes as the graph moves from one node to the another
 Earlier in the original file, the graph only had three nodes and randomly chose between happy or sad. So, to change that I added more nodes like the node_4 saying “but!” and the node_9 saying “well” to make it longer and more interesting. Further I added a new function to choose between more paths and made the final output fixed as “Hi, this is Lance. I am excited for the party.” I also cleared the code and added comments such that it’s easier to understand and comprehend.
 
 ### Below I am attaching the link to the Updated code file for the video 2 .
-Link => [https://github.com/RakshitChaurasia00007/Rakshit-Chaurasia-Intro-to-LangGraph--MAT496/blob/main/simple_graph_UPDATED.ipynb](url)
+Link => https://github.com/RakshitChaurasia00007/Rakshit-Chaurasia-Intro-to-LangGraph--MAT496/blob/main/simple_graph_UPDATED.ipynb
 
 
