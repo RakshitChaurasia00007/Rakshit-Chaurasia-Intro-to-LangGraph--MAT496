@@ -61,6 +61,19 @@ Modifications done
 I set up the OpenAI API key so the LLM works smoothly, added multiple math tools (add, subtract, multiply, divide) with checks like division by zero, and created an assistant node that combines system and user messages to generate responses. I included examples for each tool and prepared the code so the LLM can later choose the right tool automatically, making it easy to expand with more operations.
 
 
+# Beginning of Video 7 for Foundation: Introduction to LangGraph
+
+### We learned that guess what every tool function always needs a certain short description known as (docstring) so that the assistant will understand
+what it does. Without it, the tool can’t be used in the graph. 
+
+### What were the modifications done in the video 7 ?
+The docstrings for all math functions (`add`, `subtract`, `multiply`, `divide`) were added or updated such that they will be used to describe what the 
+each function does. The `divide` function was updated to include a check for division by zero .
+
+
+
+
+
 
 
 
