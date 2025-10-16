@@ -40,6 +40,17 @@ I used langgraph for the first time for which I wrote "Yo I am Bobby"  while usi
 
 #### The file are alredy uploaded.
 
+# Beginning of Video 3 for Foundation: Introduction to LangGraph
+### What I learned in Video 5 ?
+Well in Video 5 we learned how how the system decides whether to use a tool or just respond on its own. Based on what I am typing .  
+
+
+### What were some of the changes which I have done to make things different than the original file ?
+Modification made is that  I changed the original multiplication tool into an addition tool hence instead of calculating 2 * 2 it will be modified in trying 3 + 3  and it will correctly give 6.
+
+Link => https://github.com/RakshitChaurasia00007/Rakshit-Chaurasia-Intro-to-LangGraph--MAT496/blob/main/router_Updated_ishere.ipynb
+
+
 
 
 
