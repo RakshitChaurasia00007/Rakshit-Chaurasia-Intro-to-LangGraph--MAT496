@@ -40,7 +40,7 @@ I used langgraph for the first time for which I wrote "Yo I am Bobby"  while usi
 
 #### The file are alredy uploaded.
 
-# Beginning of Video 3 for Foundation: Introduction to LangGraph
+# Beginning of Video 5 for Foundation: Introduction to LangGraph
 ### What I learned in Video 5 ?
 Well in Video 5 we learned how how the system decides whether to use a tool or just respond on its own. Based on what I am typing .  
 
@@ -51,7 +51,14 @@ Modification made is that  I changed the original multiplication tool into an ad
 Link => https://github.com/RakshitChaurasia00007/Rakshit-Chaurasia-Intro-to-LangGraph--MAT496/blob/main/router_Updated_ishere.ipynb
 
 
+# Beginning of Video 6 for Foundation: Introduction to LangGraph
+What I learned
 
+I learned how the assistant (LLM) decides whether to respond directly or use a tool based on input. I also saw how messages flow through nodes in MessagesState and how a system message can guide the LLM’s responses. It was helpful to understand how to combine user messages with system instructions and visualize the flow in a graph-like structure.
+
+Modifications done
+
+I set up the OpenAI API key so the LLM works smoothly, added multiple math tools (add, subtract, multiply, divide) with checks like division by zero, and created an assistant node that combines system and user messages to generate responses. I included examples for each tool and prepared the code so the LLM can later choose the right tool automatically, making it easy to expand with more operations.
 
 
 
