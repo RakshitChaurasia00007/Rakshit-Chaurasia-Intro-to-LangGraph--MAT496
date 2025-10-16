@@ -22,3 +22,20 @@ Earlier in the original file, the graph only had three nodes and randomly chose 
 Link => https://github.com/RakshitChaurasia00007/Rakshit-Chaurasia-Intro-to-LangGraph--MAT496/blob/main/simple_graph_UPDATED.ipynb
 
 
+# Beginning of Video 4 for Foundation: Introduction to LangGraph
+
+### What have I learned in the Video 4 ?
+
+Now in the Video 4 I learned how to simply create a simple chain in the Lang Graph where the chat messages act as the state of the graph After that I learned about how we can connect a tool to a chat model such that it can automatically perform different task like calculations and etc. whenever required. Other than that I saw how the messages are added to the graph step by step using the reducer such that nothing gets overwritten.
+
+### What were some of the changes which I have done to make things different than the original file ?
+Well! if we take a look at  the original code, the example messages were about "orcas in the USA" . I changed them to ask about the "best observatories in the US". After that I just set the OpenAI API key directly in the code instead of entering it manually again and again one by one in each turn .
+This way the model was called was updated from .invoke(messages) to the newer llm (messages) method. After that I added a few extra example messages, such as  “Good morning!” and “Tell me about the solar system,” to see how the chain will be handling the different inputs.
+I also kept the tool example but updated it slightly to fit the new context.
+
+Link for the updated file =>  https://github.com/RakshitChaurasia00007/Rakshit-Chaurasia-Intro-to-LangGraph--MAT496/blob/main/chain_UPDATED.ipynb
+
+
+
+
+
