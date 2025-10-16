@@ -33,7 +33,15 @@ Well! if we take a look at  the original code, the example messages were about "
 This way the model was called was updated from .invoke(messages) to the newer llm (messages) method. After that I added a few extra example messages, such as  “Good morning!” and “Tell me about the solar system,” to see how the chain will be handling the different inputs.
 I also kept the tool example but updated it slightly to fit the new context.
 
-Link for the updated file =>  https://github.com/RakshitChaurasia00007/Rakshit-Chaurasia-Intro-to-LangGraph--MAT496/blob/main/chain_UPDATED.ipynb
+# Beginning of Video 3 for Foundation: Introduction to LangGraph
+### What I learned in Video 3 ?
+I used langgraph for the first time for which I wrote "Yo I am Bobby"  while using it I learned how to see graphs as flowcharts which can help you understand the flow . Since the video did not have any code hence it was mostly about visual appealness which can be depicted through the ss given below.
+<img width="872" height="335" alt="image" src="https://github.com/user-attachments/assets/5aaad719-45fc-4a31-92dc-ab22f73fe42b" />
+
+#### The file are alredy uploaded.
+
+
+
 
 
 
