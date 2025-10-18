@@ -89,3 +89,22 @@ I have also updated the pydantic state such that passing any wrong value like "c
 Link of the Updated State schema FIle => https://github.com/RakshitChaurasia00007/Rakshit-Chaurasia-Intro-to-LangGraph--MAT496/blob/main/state_schema_Updated_Correctly.ipynb
 
 After this we will begin with Lesson 2 ...
+
+
+## Lesson 2 State Reducers
+
+### What are the Lessons that we learned from State Reducers
+Well ! after watching this lesson on State Reducers, I learned that reducers control how the state updates are applied to the different keys.
+They also ensure that multiple nodes can safely update state using overwrite, append, or custom merge behaviors.
+We have also used the reducers to append values, handle edge cases with custom merges, and the update or remove messages by ID, giving full control over the state.
+
+### What are the changes which I have performed in this Video for State Reducers in the Lesson 2 ?
+After watching the video on State Reducers I swapped all foo keys for bar across every reducer example to make the state naming consistent and clearer.
+Further I polished the text, added Markdown formatting, and included helpful links to docs for easier reading.
+
+Link of the Updated State Reducers File =>  https://github.com/RakshitChaurasia00007/Rakshit-Chaurasia-Intro-to-LangGraph--MAT496/blob/main/state_reducers_updated_correctly_.ipynb
+
+
+After this we will begin with Lesson 3 which is Multiple Schemas...
+
+
