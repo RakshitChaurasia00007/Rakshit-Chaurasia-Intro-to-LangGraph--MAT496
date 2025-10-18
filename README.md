@@ -108,3 +108,23 @@ Link of the Updated State Reducers File =>  https://github.com/RakshitChaurasia0
 After this we will begin with Lesson 3 which is Multiple Schemas...
 
 
+## Lesson Multiple Schemas 
+
+### What are the Lessons that we learned after watching video on Multiple Schemas ?
+Now after watching this lesson's video I learned how nodes can share the temporary information without changing the graph’s main inputs or outputs.
+I also saw how I can set the graph to only show the important results while keeping all extra data for its work.
+
+
+### What are the changes which I have performed in after watching the Video for Multiple Schemas in the Lesson 3 ?
+
+After watching the lesson on Multiple Schema I added the summary and reasoning steps fields to demonstrate how custom schema flow.
+Further I have updated node logic to give different outputs and included debug print statements .
+I have also enhanced the output to show both the final answer and the summary, showing the full data transformation.
+
+Link for the Updated file on Multiple Schema => https://github.com/RakshitChaurasia00007/Rakshit-Chaurasia-Intro-to-LangGraph--MAT496/blob/main/multiple_schemas_Updated.ipynb
+
+After this we will begin with the Lesson 4 of this module 2 which is Trim and Filter Messages ....
+
+
+
+
