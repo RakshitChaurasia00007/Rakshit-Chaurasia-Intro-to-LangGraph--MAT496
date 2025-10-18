@@ -72,9 +72,20 @@ each function does. The `divide` function was updated to include a check for div
 
 
 
+# Module 2 
+## Lesson 1 State Schema
 
+### What are the Lessons that we learned from State Schema ?
+Well ! from this video on state schema we talked about what we’ll be doing in module 2 and went back to the simple graph from module 1 to make it look better.
+We learned how to use the Python’s data class to easily make classes for storing data and added Pydantic State to catch the mistakes while running the code. 
+This really helped us understand how the state and the memory work more clearly.
 
+### What are the changes which we have performed in this Video  for State schema Lesson 1 ?
+I changed everything from name and mood to city and condition to work with weather instead of feelings.
+After that I have updated the nodes and decision logic to use the words "sunny", "rainy", "cloudy", "stormy" instead of using the below 
+"happy", "sad".
+I have also updated the pydantic state such that passing any wrong value like "crazy" now throws a ValidationError.
 
+Link of the Updated State schema FIle => https://github.com/RakshitChaurasia00007/Rakshit-Chaurasia-Intro-to-LangGraph--MAT496/blob/main/state_schema_Updated_Correctly.ipynb
 
-
-
+After this we will begin with Lesson 2 ...
