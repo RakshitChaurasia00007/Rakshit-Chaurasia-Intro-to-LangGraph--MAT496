@@ -126,5 +126,18 @@ Link for the Updated file on Multiple Schema => https://github.com/RakshitChaura
 After this we will begin with the Lesson 4 of this module 2 which is Trim and Filter Messages ....
 
 
+## Lesson Trim and Filter Messages 
+Well after watching the lesson on Trim and Filter Messages I learned how to customize and use the different graph state schemas, create our own state 
+reducers, and manage the messages better with reducers, filters, and trimmers. These help control how much of the chat history is sent to the model while 
+keeping the message channel consistent for smooth chatbot performance in the LangGraph.
+
+### What were the changes which were done in the Updated file for Trim and Filter Messages after watching it ?
+So, I have used trim_messages to send only recent messages within a token limit.
+Further I the last AIMessage and new HumanMessage are appended automatically for multi-turn chat.
+FOr tweaking I have also made sure that responses are pretty-printed, and the stateGraph shows the chat node flow in one cell.
+
+
+Link for the Updated file is here => https://github.com/RakshitChaurasia00007/Rakshit-Chaurasia-Intro-to-LangGraph--MAT496/blob/main/trim_filter_messages_Updated_.ipynb
+
 
 
