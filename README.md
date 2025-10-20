@@ -139,5 +139,20 @@ FOr tweaking I have also made sure that responses are pretty-printed, and the st
 
 Link for the Updated file is here => https://github.com/RakshitChaurasia00007/Rakshit-Chaurasia-Intro-to-LangGraph--MAT496/blob/main/trim_filter_messages_Updated_.ipynb
 
+## Lesson Chatbot w/ Summarizing Messages and Memory
+Now I have watched the lesson and completed the coding part as well so while completing the work I have learned to build a chatbot with memory using a 
+running summary to compress long conversations and reduce token cost.Further I learned tha LangGraph’s persistence maintains context across steps efficiently. I also learned that conditional edges decide when to refresh the summary to keep responses accurate and context-aware.
+
+### What are some of the changes which were done after learning from Chatbot w/ Summarizing Messages and Memory lesson?
+For modifications I have changed the state key from summary to context_recap so the chatbot keeps short bullet-point recaps of the conversation. I have also updated the model calls and prompts to work with the context_recap instead of the full narrative summaries. Further I have also foccused on renameing nodes and cleaning up how responses and recaps are shown, while keeping the graph flow and memory features working.
+
+Link for all the updates which are done in the Updated File 
+Link =>  https://github.com/RakshitChaurasia00007/Rakshit-Chaurasia-Intro-to-LangGraph--MAT496/blob/main/chatbot_summarization_Updated_.ipynb
+
+Now this will be our last Lesson which we will eventually start Chatbot w/ Summarizing Messages and External Memory ....
+
+
+
+
 
 
