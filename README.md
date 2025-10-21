@@ -152,6 +152,26 @@ Link =>  https://github.com/RakshitChaurasia00007/Rakshit-Chaurasia-Intro-to-Lan
 Now this will be our last Lesson which we will eventually start Chatbot w/ Summarizing Messages and External Memory ....
 
 
+## Lesson Chatbot with message summarization & External DB Memory
+Well! after completing our last lesson of this module known as "Chatbot with message summarization & External DB Memory" I have learned to build a chatbot with persistent memory using SQLite checkpointers that store each conversation’s state. This allows the bot to retain context and resume chats seamlessly even after the restarts. It also helps us to optimize 
+the token usage for better performance.
+
+
+### What were some changes which were done to show implementation of our learnings afetr watching and completing the code file for Chatbot with message summarization & External DB Memory Lesson ?
+
+So, after completing the lesson on Chatbot with message summarization & External DB Memory I have changed the context to a cosmic theme to make the conversation more creative and different from the original one. I have also improved the state structure such that it clearly shows the messages, memory summary, and last update in a simple way.
+Further I have tweaked the prompt and memory flow to show how the state updates smoothly while keeping it easy to follow and understand every detail of our lesson.
+
+Link for the Updated code file after watching the leasson on Chatbot with message summarization & External DB Memory is given below 
+
+# End Note => https://github.com/RakshitChaurasia00007/Rakshit-Chaurasia-Intro-to-LangGraph--MAT496/blob/main/chatbot_external_memory_updated_is_here.ipynb
+
+# End Note 
+ ## Well It was actually fun completing Module 2 of Langgraph, I believe I have learned many skills which I will implement in my future projects in life. :)
+
+
+
+
 
 
 
