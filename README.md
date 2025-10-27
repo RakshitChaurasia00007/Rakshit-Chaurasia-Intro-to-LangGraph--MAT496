@@ -229,6 +229,28 @@ Link for the updated file with tweaks is here => https://github.com/RakshitChaur
 ### Next will be the last lesson of this MODULE which is TIME TRAVEL...
 
 
+## LESSON TIME TRAVEL
+
+After watching the last lesson and completing my work for Time Travel lesson I have learned about how I can use get_state_history to track the complete state
+flow of a graph. Further I explored the time travel, which allowed me to replay, edit, or even fork from any of the previous step by using the checkpoint_id
+in the graph.stream() . This just made the debugging and the workflow refinement much easier than without re-running the entire graph itself .
+
+## What were some of the tweaks which I have done after completing my lesson and work on TIME TRAVEL LESSON ?
+Well! after completing my last lesson of this module 3 which is TIME TRAVEL I have learned many components of langgraph like in this lesson,I learned to use
+the checkpoints in the LangGraph to explore the time-travel through debugging. Further I also made changes that let me replay, edit, and fork the earlier graph 
+states using a the checkpoint_id instead of running everything again and again so many times.I also understood how the assistant node and tool node work together
+during the replay and the branching in the graph flow.
+
+# Well it was a fun session in finishing this module. This will be very useful for me in future .
+
+
+
+Now here I have provided the link for the updated file which includes all the modifications which I have done in it 
+LINK => https://github.com/RakshitChaurasia00007/Rakshit-Chaurasia-Intro-to-LangGraph--MAT496/blob/main/time_travel_UPDATED.ipynb
+
+
+
+
 
 
 
