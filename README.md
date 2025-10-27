@@ -212,6 +212,22 @@ Link for the updated file has been provided here => https://github.com/RakshitCh
 
 ### Next Lesson is about Dynamic Breakpoints...
 
+## LESSON DYNAMIC BREAKPOINTS
+Well! from the whole lesson I learned how to use the dynamic internal breakpoints that let the graph self-interrupt during the execution. 
+Further I learned that the Used NodeInterrupt() to trigger the conditional pauses based onthe custom logic.I also learned that it helps 
+us to communicate the reason for the interruption to the user which is actually great for the user to know so that the user can solve it.
+
+## What are the changes or modifications which I have done after completing the whole lesson on the topic of  Dynamic Breakpoints ?
+
+This time after completing the whole lesson I have tweaked the code such that it could simulate how dynamic breakpoints work using NodeInterrupt. 
+Instead of just making the direct API calls like get_state, update_state, and runs.stream, I used the local logic with state dictionaries and event streams. 
+This helped me show how the graph pauses, updates its state, and resumes execution dynamically using the technical flow control.
+
+
+Link for the updated file with tweaks is here => https://github.com/RakshitChaurasia00007/Rakshit-Chaurasia-Intro-to-LangGraph--MAT496/blob/main/dynamic_breakpoints_updated.ipynb
+
+### Next will be the last lesson of this MODULE which is TIME TRAVEL...
+
 
 
 
