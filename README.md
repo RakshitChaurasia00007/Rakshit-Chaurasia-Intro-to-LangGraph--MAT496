@@ -196,6 +196,27 @@ Here I have provided the link for the upadeted file  =>  https://github.com/Raks
 
 ### Next Lesson is of EDITING STATE & HUMAN FEEDBACK
 
+## LESSON Edit-State-Human-Feedback
+
+Well! I watched and completed the lesson and I learned to use the breakpoints to directly edit the graph state and insert the human feedback instead
+of just waiting for the user approval. Further I learned that about the LangGraph UI, I understood real-time workflow update as well. This totally 
+helped me in gaining better control over the state flow for smoother human-in-the-loop interaction.
+
+## What were some changes or modifications which I have done after watching and completing the whole lesson on Edit-State-Human-Feedback ?
+Now In this lesson for my modifications I have added a stop function to end the loop once the final feedback is reached.
+Further I have set a recursion limit using the MemorySaver() to avoid the endless executions. In the end I 
+lastly,made the feedback loop smoother and improved how the events are streamed and displayed for us .
+I tried to do the best I could from my side in this updated file.
+
+Link for the updated file has been provided here => https://github.com/RakshitChaurasia00007/Rakshit-Chaurasia-Intro-to-LangGraph--MAT496/blob/main/edit_state_human_feedback_UPDATED.ipynb
+
+### Next Lesson is about Dynamic Breakpoints...
+
+
+
+
+
+
 
 
 
