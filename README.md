@@ -182,6 +182,21 @@ Link of the Updated code file => https://github.com/RakshitChaurasia00007/Rakshi
 
 ### Next lesson will be Breakpoints which we will begin in a while...
 
+## Lesson BREAKPOINT
+From the lesson I learned that Human-in-the-Loop lets humans stay involved by using the breakpoints to pause the graph for feedback. It enables many components like
+approval, debugging, and editing, where users can approve actions, rewind the graph using graph.stream(), or even modify the agent’s state.
+This alsotaught me that it makes the overall workflow more controlled and reliable.
+
+### What were some tweakings which I have done in after learning from this lesson ?
+After watching the lesson I have used the MemorySaver to add the checkpoints for betterment of debugging and state tracking. Further I have, included interrupt_before=(tool) 
+to pause the graph for user approval before tool execution. In the end I finally thought to simplify the overall graph flow to make Human-in-the-Loop
+interactions faster and more efficient in use.
+
+Here I have provided the link for the upadeted file  =>  https://github.com/RakshitChaurasia00007/Rakshit-Chaurasia-Intro-to-LangGraph--MAT496/blob/main/breakpoints_UPDATED.ipynb
+
+### Next Lesson is of EDITING STATE & HUMAN FEEDBACK
+
+
 
 
 
