@@ -170,6 +170,21 @@ Link for the Updated code file after watching the leasson on Chatbot with messag
  ## Well It was actually fun completing Module 2 of Langgraph, I believe I have learned many skills which I will implement in my future projects in life. :)
 
 
+# Well! Let's Begin with MODULE 3 which is UX & Human in the Loop
+
+## Lesson STREAMING
+ After completing the lesson I have learned that human-in-the-loop enhances the memory by allowing the users to interact with the graph execution in real time. Further I saw that LangGraph streaming provides live state updates through different modes like updates and values. Wit the '.astream_events`, we can stream LLM tokens and track key details such as the event type, name, data, and metadata from each node, making the process more transparent and interactive.
+
+### After watching what were the modifications which you have done to depict your learnings ?
+Now since I have watched I have made changes to improve how the events and messages flow during streaming.To add to that I have also worked on making the output display clearer when tokens or states update.After that  I have also foccused on refining the conversation setup so it connects better with the rest of the process.
+
+Link of the Updated code file => https://github.com/RakshitChaurasia00007/Rakshit-Chaurasia-Intro-to-LangGraph--MAT496/blob/main/streaming_interruption_UPDATED.ipynb
+
+### Next lesson will be Breakpoints which we will begin in a while...
+
+
+
+
 
 
 
