@@ -251,7 +251,16 @@ LINK => https://github.com/RakshitChaurasia00007/Rakshit-Chaurasia-Intro-to-Lang
 
 
 # Begining with the MODULE 4 Now !! Building Your Assistant
-# Lesson to Begin is Parallelization
+## Lesson to Begin is Parallelization
+In this video I learned how to use the concepts of parallelization with the fan-out and the fan-in pattern to run the multiple nodes in the same step. 
+We handled the execution errors using the reducer function that merges the parallel outputs into a list. This builds upon the human-in-the-loop and memory 
+concepts to create an efficient multi-agent workflows like a research assistant.
+
+## What were some of the changes which were done after watching the lesson on Parallelization ?
+
+
+
+
 
 
 
