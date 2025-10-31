@@ -283,6 +283,24 @@ Well here is the link for the updated file for SUB GRAPH
  LINK => https://github.com/RakshitChaurasia00007/Rakshit-Chaurasia-Intro-to-LangGraph--MAT496/blob/main/sub_graph_UPDATED.ipynb
 
 ## LESSON on Map-reduce
+After watching the lesson I have learned map-reduce is a parallel processing technique that improves the efficiency. I have also learned that it 
+divides a large task into smaller sub-tasks in the map phase and processes them simultaneously. I have also learned that in the Reduce phase, all the 
+sub-results are combined to get the final output, with the conditional edges that used to manage the flow whenever required.
+
+## What are the tweaking which were done after completing the lesson ?
+In this lesson of MAP REDUCE I have modified the Map-Reduce workflow by keeping the same structure but making it simpler and a bit more efficient. Further 
+the graph still follows the Map and Reduce logic with clear node connections for generating different topics, creating facts, and selecting the best one from them.
+I also made sure that the whole program runs smoothly in a self-contained way without any error or problem.
+
+Link of the updated file has been attached her below for the MAP REDUCE lesson.
+
+LINK => https://github.com/RakshitChaurasia00007/Rakshit-Chaurasia-Intro-to-LangGraph--MAT496/blob/main/map_reduce_UPDATED.ipynb
+
+## LESSON Research Assistant
+
+
+
+
 
 
 
