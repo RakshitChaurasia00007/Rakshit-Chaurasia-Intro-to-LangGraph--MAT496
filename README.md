@@ -257,6 +257,15 @@ We handled the execution errors using the reducer function that merges the paral
 concepts to create an efficient multi-agent workflows like a research assistant.
 
 ## What were some of the changes which were done after watching the lesson on Parallelization ?
+After completly watching the code I have modified the flow by refining the state structure, optimizing node connections, and ensuring that the asynchronous event
+handling within the graph.Further I have improved the graph logic and dthe ata flow between nodes to make the whole process much smoother and more modular.
+I have also enhanced the functional definitions and the integration logic to make the execution more structured and technically aligned with the LangGraph’s 
+architecture.
+
+Link for the file having modification 
+LINK => https://github.com/RakshitChaurasia00007/Rakshit-Chaurasia-Intro-to-LangGraph--MAT496/blob/main/parallelization_Updated.ipynb
+
+## Lesson SUB GRAPHS TO BE DONE
 
 
 
