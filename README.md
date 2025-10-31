@@ -267,6 +267,23 @@ LINK => https://github.com/RakshitChaurasia00007/Rakshit-Chaurasia-Intro-to-Lang
 
 ## Lesson SUB GRAPHS TO BE DONE
 
+## LESSON SUB GRAPHS
+
+After watching the lesson I have learned about how can I build sub-graphs inside a main graph to handle the different states efficiently. I also learned that they 
+exchange the data with the parent graph using the overlapping keys and can run in the parallel for the better performance. I also learned that in the LangSmith
+UI, sub-graphs make the trace visualization cleaner and easier to understand.
+
+## What were some changes swhich I have done ?
+
+Well! after completing this lesson I have built an Entry Graph that connects the Failure Analysis and the Question Summarization subgraphs. I have added a clean_logs
+function to preprocess the raw log data before sending it to both the subgraphs. Then, I linked all the nodes using edges so that the cleaned data flows correctly
+and both the subgraphs can run smoothly in parallel.
+
+Well here is the link for the updated file for SUB GRAPH
+ LINK => https://github.com/RakshitChaurasia00007/Rakshit-Chaurasia-Intro-to-LangGraph--MAT496/blob/main/sub_graph_UPDATED.ipynb
+
+## LESSON on Map-reduce
+
 
 
 
