@@ -298,6 +298,23 @@ LINK => https://github.com/RakshitChaurasia00007/Rakshit-Chaurasia-Intro-to-Lang
 
 ## LESSON Research Assistant
 
+ Well! in this lesson I have learned about how to built a multi-agent research assistant where multiple analyst agents interview an expert agent using 
+ Wikipedia and Web Search sources running in parallel.I have also learned how a human-in-the-loop refines the sub-topics before research begins.
+ Further I have learned that each interview runs as a sub-graph maintaining its internal state & using Map-Reduce parallelization, all the interviews
+ execute simultaneously to efficiently generate a customized final research report.
+
+ ## What were the changes which you have done after working on RESEARCH ASSISTANT FILE ? 
+While completing this lesson I have made our version more dynamic and interactive by customizing unique analyst profiles.Next I have added a human-in-the-loop
+step using the graph.update_state() to refine the analysts based on feedback, and improving the flow visibility with the clear status messages. I also enhanced 
+the final output using the Markdown() for a clean & well-formatted report.Overall the tweaks made the graph more responsive, user-driven, and technically polished 
+then its previous version.
+
+# Well! this was the last lesson on RESEARCH ASSISTANT for Module 4 which taught us a lot. Hence we are finished with module 4 of this series.
+## LINK for the updated file will be present below which will show us the updations in lesson 4 for moduke 4.
+LINK = > https://github.com/RakshitChaurasia00007/Rakshit-Chaurasia-Intro-to-LangGraph--MAT496/blob/main/research_assistant_UPDATEDi.ipynb
+
+
+
 
 
 
